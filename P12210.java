@@ -1,3 +1,6 @@
+/*
+https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3362
+*/
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.Collections;
