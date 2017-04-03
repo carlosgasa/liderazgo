@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.math.BigInteger;
-
+//http://redprogramacioncompetitiva.com/contests/2017/03/team/problem.php
 public class sequence {
 	
 	public static void main (String[] args) {
